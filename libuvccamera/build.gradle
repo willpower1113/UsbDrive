@@ -80,7 +80,7 @@ android {
 //	commandLine ndkBuildPath, 'clean', '-C', file('src/main').absolutePath
 //}
 //
-//clean.dependsOn 'ndkClean'
+//clean.dependsOn
 
 dependencies {
     implementation fileTree(dir: new File(buildDir, 'libs'), include: '*.jar')
