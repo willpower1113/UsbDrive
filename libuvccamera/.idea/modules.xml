@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../UsbCameraLib.iml" filepath="$PROJECT_DIR$/../UsbCameraLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libuvccamera.iml" filepath="$PROJECT_DIR$/libuvccamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../usbCameraCommon/usbCameraCommon.iml" filepath="$PROJECT_DIR$/../usbCameraCommon/usbCameraCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../usblibrary/usblibrary.iml" filepath="$PROJECT_DIR$/../usblibrary/usblibrary.iml" />
+    </modules>
+  </component>
+</project>
