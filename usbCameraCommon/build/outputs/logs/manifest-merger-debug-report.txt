@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+	package
+		ADDED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml:24:11-52
+		INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml:24:1-54
+uses-sdk
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+		ADDED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+		ADDED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
+		INJECTED from F:\space\UsbDevice\usbCameraCommon\src\main\AndroidManifest.xml
